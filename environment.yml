@@ -1,0 +1,7 @@
+name: ISLPenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+prefix: C:\Users\U8017882\Anaconda3\envs\ISLPenv
