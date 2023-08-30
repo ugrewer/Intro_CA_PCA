@@ -1,0 +1,48 @@
+name: teach_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geojson
+  - rasterio
+  - scipy
+  - geoplot
+  - jupyterlab
+  - numpy
+  - dask
+  - pandas
+  - h5netcdf
+  - shapely
+  - geopandas
+  - spyder
+  - gdal
+  - torchvision
+  - xarray
+  - fuzzywuzzy
+  - h5py
+  - fiona
+  - scikit-learn
+  - joblib
+  - openpyxl
+  - pyogrio
+  - basemap
+  - torchmetrics
+  - mechanicalsoup
+  - netcdf4
+  - torchinfo
+  - cdsapi
+  - pyarrow
+  - statsmodels
+  - python
+  - matplotlib
+  - lxml
+  - filelock
+  - lifelines
+  - pip
+  - pyproj
+  - ipykernel
+  - pygam
+  - fastparquet
+  - rioxarray
+  - pysal
+prefix: C:\Users\U8017882\Anaconda3\envs\teach_env
